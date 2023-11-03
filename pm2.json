@@ -5,7 +5,7 @@
     "exec_mode": "fork",
     "instances": "1",
     "autorestart": true,
-    "max_memory_restart": "1G",
+    "max_memory_restart": "100M",
     "log_date_format": "YYYY-MM-DD HH:mm Z",
     "out_file": "log/backend.stdout.log",
     "error_file": "log/backend.error.log"
