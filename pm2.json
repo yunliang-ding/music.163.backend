@@ -1,5 +1,5 @@
 {
-    "name": "music.163.backend:6900",
+    "name": "music.163.backend",
     "script": "app.js",
     "ignore-watch": "node_modules",
     "exec_mode": "fork",
